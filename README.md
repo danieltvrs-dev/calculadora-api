@@ -4,19 +4,19 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.135-e8132a?style=flat-square&logo=fastapi&logoColor=white)
 ![Status](https://img.shields.io/badge/status-concluído-22c55e?style=flat-square)
 
-> Meu primeiro projeto com FastAPI. Uma API REST simples para operações matemáticas — desenvolvida do zero enquanto aprendo desenvolvimento backend com Python.
+> Meu primeiro projeto com FastAPI. Uma API REST simples para operações matemáticas, desenvolvida do zero enquanto aprendo desenvolvimento backend com Python.
 
 ---
 
-## 💡 Por que esse projeto?
+## Por que esse projeto?
 
-Estou no início da minha jornada como desenvolvedor fullstack. Antes de construir sistemas complexos, quis entender como uma API funciona de verdade — como ela recebe dados, processa e responde. Esse projeto foi o meu primeiro passo.
+Estou no início da minha jornada como desenvolvedor fullstack. Antes de construir sistemas complexos, quis entender como uma API funciona de verdade, como ela recebe dados, processa e responde. Esse projeto foi o meu primeiro passo.
 
 ---
 
 ## 🚀 O que essa API faz?
 
-Recebe dois números e uma operação matemática, e retorna o resultado. Simples assim — mas por baixo dos panos, é uma API REST real rodando em produção.
+Recebe dois números e uma operação matemática, e retorna o resultado. Simples assim, mas por baixo dos panos, é uma API REST real rodando em produção.
 
 | Método | Rota | Descrição |
 |--------|------|-----------|
@@ -31,10 +31,10 @@ Recebe dois números e uma operação matemática, e retorna o resultado. Simple
 
 ## 🛠️ Tecnologias utilizadas
 
-- **Python 3.13** — linguagem principal
-- **FastAPI** — framework moderno para APIs REST
-- **Uvicorn** — servidor ASGI para rodar a aplicação
-- **Swagger UI** — documentação automática gerada pelo FastAPI
+- **Python 3.13:**  linguagem principal
+- **FastAPI:**  framework moderno para APIs REST
+- **Uvicorn:**  servidor ASGI para rodar a aplicação
+- **Swagger UI:**  documentação automática gerada pelo FastAPI
 
 ---
 
@@ -71,15 +71,7 @@ Acesse `/docs` para testar todos os endpoints diretamente no navegador.
 - Como o FastAPI gera documentação automática com Swagger
 - Como subir um projeto no GitHub com Git
 
----
 
-## 🗺️ Próximos projetos
-
-Este é o **Projeto 01** de um roadmap de 11 projetos que estou desenvolvendo até meados de 2026, evoluindo do básico ao avançado com Python, FastAPI, PostgreSQL e React.
-
-➡️ Veja o roadmap completo no meu [GitHub](https://github.com/danieltvrs-dev)
-
----
 
 ## 👨‍💻 Autor
 
